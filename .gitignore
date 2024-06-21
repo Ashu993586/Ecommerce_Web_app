@@ -1,0 +1,24 @@
+db.sqlite3
+venv
+*.pyc
+*.sqlite3
+*.mmdb
+*.log
+media/*
+!media/static
+.DS_Store
+node_modules
+bower_components
+/data
+/static
+venv/
+.cache
+.env
+*.db
+*.pid
+
+# IDE
+.pylintrc
+tox.ini
+.vscode/*
+.idea
